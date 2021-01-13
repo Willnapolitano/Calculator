@@ -31,36 +31,21 @@
 <h1 id="installation">⚙️ Installation</h1>
  
 <h3>Windows:</h3>
-<!--You can use:-->
-<!--```-->
-   <!--CODE-->
-<!--```-->
-<!--To add codes-->
-  ```
-    #[First clone the repository]
+```
+#First clone the repository
 
-    git clone https://github.com/Willnapolitano/Calculator.git
-
-    #[Then]
-
-    cd Calculator
-
-    #[And open the index.html file in your favorite browser]
-  ```
-<h3>Linux:<h3>
+git clone https://github.com/Willnapolitano/Calculator.git
   
-  ```
-    #[First clone the repository]
+#Then
+  
+cd Calculator
+  
+#And open the index.html file in your favorite browser
 
-    git clone https://github.com/Willnapolitano/Calculator.git
+```
 
-    #[Then]
-
-    cd Calculator
-
-    #[And open the index.html file in your favorite browser]
-    
-  ```
+  
+<h3>Linux:<h3>
   
 <h3>MacOS</h3>
 <p>Installation in MacOS</p>
