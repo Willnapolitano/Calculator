@@ -31,24 +31,45 @@
 <h1 id="installation">⚙️ Installation</h1>
  
 <h3>Windows:</h3>
-```
-#First clone the repository
 
-git clone https://github.com/Willnapolitano/Calculator.git
-  
-#Then
-  
+
+```cmd
+# Clone this repository
+git clone <https://github.com/Willnapolitano/Calculator.git>
+
+# Go to the project's folder
 cd Calculator
-  
-#And open the index.html file in your favorite browser
 
+# Open the index.html in your favorite browser
 ```
+
 
   
 <h3>Linux:<h3>
+ 
+ 
+```bash
+# Clone this repository
+git clone <https://github.com/Willnapolitano/Calculator.git>
+
+# Go to the project's folder
+cd Calculator
+
+# Open the index.html in your favorite browser
+```
   
 <h3>MacOS</h3>
-<p>Installation in MacOS</p>
+
+
+```bash
+# Clone this repository
+git clone <https://github.com/Willnapolitano/Calculator.git>
+
+# Go to the project's folder
+cd Calculator
+
+# Open the index.html in your favorite browser
+```
  
 <br/><br/>
  
@@ -56,11 +77,9 @@ cd Calculator
 <h1 id="tecnologies">💻 Tecnologies</h1>
  
 <ul>
- <li>Ex:NodeJS<!--And you can put the link to the tecnologies--></li>
- <li>Ex:React<!--And you can put the link to the tecnologies--></li>
- <li>Ex:MySQL<!--And you can put the link to the tecnologies--></li>
- <li>Ex:PHP<!--And you can put the link to the tecnologies--></li>
- <li>Ex:Java<!--And you can put the link to the tecnologies--></li>
+ <li>HTML5</li>
+ <li>CSS3</li>
+ <li>JAVASCRIPT</li>
 </ul>
 
 <br/><br/>
@@ -68,37 +87,27 @@ cd Calculator
 <h1 id="dependencies">⚠️ Dependencies</h1>
 
  <ol>
- <li>Project dependencies</li>
- <li>Project dependencies</li>
- <li>Project dependencies</li>
- <li>Project dependencies</li>
+ <li>A web browser</li>
+ <li>git(To clone this repository)</li>
  </ol>
  
 <br/><br/>
  
 <h1 id="contributions">👥 Contribution</h1>
 
-<p>How we can contribute with your project</p>
+<p>You can tell me about issues in the project! Or add new funtionalities and make a pull request!</p>
 
 <br/><br/>
 
 <h1 id="printscreen">📷 Printscreen</h1>
-<!-Or you can use GIFs =D--->
         
-<img src="..."> <!--Or--> ![Text](Image)
-<img src="..."> <!--Or--> ![Text](Image)
-<img src="..."> <!--Or--> ![Text](Image)
-<img src="..."> <!--Or--> ![Text](Image)
-<img src="..."> <!--Or--> ![Text](Image)
+<img src="./Img/Screenshot_2021-01-04 Calculator.png ">
 
 <br/><br/>
-
-<h1 id="licence">©️ License</h1>
-<p>Here you can put what licence you are using</p>
 
 <br/>
 
 <h1 id="author" align="center">Author</h1>
 
-<p align="center">Here you put your name</h1>
+<p align="center">José Wilson Barbosa de Sousa Junior</h1>
  
